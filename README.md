@@ -23,4 +23,4 @@
 3. Produce a array that contains both AWS RH with AWS CloudHealth
 4. Loop through each RH AWS ACCOUNT that has an status of Yellow, but updating v2.json with the proper cloudtrail tag
 
-![alt text](https://imgur.com/gallery/kPGXK)
+[Imgur](https://i.imgur.com/6wESf1c.png)
