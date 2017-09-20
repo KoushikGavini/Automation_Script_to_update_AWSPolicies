@@ -1,9 +1,7 @@
 
 # Documentation :memo: #
 ## Objective: ##
-### Create an automation script that will fix the ###
-> cloudhealth status for RobertHalf AWS Accounts from warning to healthy by updating the policies for every AWS account that has an 
-  status of “warning”. Used AWS Accounts API, CloudHealth Accounts API, and AWS CLI, it was written in ruby.
+> Create an automation script that will fix the cloudhealth status for RobertHalf AWS Accounts from warning to healthy by updating the policies for every AWS account that has an status of “warning”. Used AWS Accounts API, CloudHealth Accounts API, and AWS CLI, it was written in ruby.
 ## The program should update the policy in AWS accordingly, such that updating a new version of the policy by uploading a json file (v2.json). :page_facing_up: ##
 
 ## Change the location, of the following in the script ##
