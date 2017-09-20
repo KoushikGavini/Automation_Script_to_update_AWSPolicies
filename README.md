@@ -1,4 +1,3 @@
-
 # Documentation :memo: #
 ## Objective: ##
 > Create an automation script that will fix the cloudhealth status for an ENTERPRISE AWS Accounts from warning to healthy by updating the policies for every AWS account that has an status of “warning”. Used AWS Accounts API, CloudHealth Accounts API, and AWS CLI, it was written in ruby.
@@ -24,4 +23,4 @@
 3. Produce a array that contains both AWS RH with AWS CloudHealth
 4. Loop through each RH AWS ACCOUNT that has an status of Yellow, but updating v2.json with the proper cloudtrail tag
 
-
+![alt text](https://imgur.com/gallery/kPGXK)
